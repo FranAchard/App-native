@@ -1,0 +1,12 @@
+body{
+    background-color: #1B1C1F;
+}
+.container-home{
+    display: flex;
+    justify-content: center;
+    
+}
+.title-home{
+    color: #554A99;
+    text-align: center;
+}
